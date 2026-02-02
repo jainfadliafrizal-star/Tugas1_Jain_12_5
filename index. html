@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>CV | Jain Fadli Afrizal</title>
+                <style>
+                        :root {
+                                        --primary-color: #2c3e50;
+                                                    --accent-color: #3498db;
+                                                                --bg-color: #f4f7f6;
+                                                                            --text-color: #333;
+                        }
+
+                                body {
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                            background-color: var(--bg-color);
+                                                                        color: var(--text-color);
+                                                                                    margin: 0;
+                                                                                                padding: 0;
+                                                                                                            display: flex;
+                                                                                                                        justify-content: center;
+                                }
+
+                                        .container {
+                                                        width: 100%;
+                                                                    max-width: 600px;
+                                                                                background: white;
+                                                                                            min-height: 100vh;
+                                                                                                        box-shadow: 0 0 20px rgba(0,0,0,0.1);
+                                                                                                                    padding: 40px 20px;
+                                        }
+
+                                                header {
+                                                                text-align: center;
+                                                                            margin-bottom: 30px;
+                                                }
+
+                                                        .profile-img {
+                                                                        width: 120px;
+                                                                                    height: 120px;
+                                                                                                background: #ddd;
+                                                                                                            border-radius: 50%;
+                                                                                                                        margin: 0 auto 15px;
+                                                                                                                                    display: flex;
+                                                                                                                                                align-items: center;
+                                                                                                                                                            justify-content: center;
+                                                                                                                                                                        font-size: 50px;
+                                                                                                                                                                                    color: white;
+                                                                                                                                                                                                background-color: var(--accent-color);
+                                                        }
+
+                                                                h1 { margin: 0; color: var(--primary-color); font-size: 24px; }
+                                                                        .subtitle { color: #666; margin-top: 5px; }
+
+                                                                                .section {
+                                                                                                margin-bottom: 25px;
+                                                                                                            padding: 15px;
+                                                                                                                        border-radius: 10px;
+                                                                                                                                    background: #fafafa;
+                                                                                                                                                border-left: 5px solid var(--accent-color);
+                                                                                }
+
+                                                                                        h2 {
+                                                                                                        font-size: 18px;
+                                                                                                                    color: var(--accent-color);
+                                                                                                                                margin-top: 0;
+                                                                                                                                            text-transform: uppercase;
+                                                                                                                                                        letter-spacing: 1px;
+                                                                                        }
+
+                                                                                                .info-grid {
+                                                                                                                display: grid;
+                                                                                                                            grid-template-columns: 1fr 1fr;
+                                                                                                                                        gap: 10px;
+                                                                                                                                                    font-size: 14px;
+                                                                                                }
+
+                                                                                                        ul {
+                                                                                                                        padding-left: 20px;
+                                                                                                                                    margin: 0;
+                                                                                                        }
+
+                                                                                                                li { margin-bottom: 8px; }
+
+                                                                                                                        .contact-btn {
+                                                                                                                                        display: block;
+                                                                                                                                                    text-align: center;
+                                                                                                                                                                background: var(--primary-color);
+                                                                                                                                                                            color: white;
+                                                                                                                                                                                        text-decoration: none;
+                                                                                                                                                                                                    padding: 12px;
+                                                                                                                                                                                                                border-radius: 25px;
+                                                                                                                                                                                                                            margin-top: 10px;
+                                                                                                                                                                                                                                        transition: 0.3s;
+                                                                                                                        }
+
+                                                                                                                                .contact-btn:hover {
+                                                                                                                                                background: var(--accent-color);
+                                                                                                                                }
+
+                                                                                                                                        .social-link {
+                                                                                                                                                        text-align: center;
+                                                                                                                                                                    margin-top: 20px;
+                                                                                                                                                                                font-weight: bold;
+                                                                                                                                        }
+                                                                                                                                            </style>
+                                                                                                                                            </head>
+                                                                                                                                            <body>
+
+                                                                                                                                            <div class="container">
+                                                                                                                                                <header>
+                                                                                                                                                        <div class="profile-img">JF</div>
+                                                                                                                                                                <h1>Jain Fadli Afrizal</h1>
+                                                                                                                                                                        <p class="subtitle">Lulusan SMA KP Baleendah (2026)</p>
+                                                                                                                                                                            </header>
+
+                                                                                                                                                                                <div class="section">
+                                                                                                                                                                                        <h2>Tentang Diri</h2>
+                                                                                                                                                                                                <p style="font-size: 14px; line-height: 1.6;">
+                                                                                                                                                                                                            Saya adalah individu yang disiplin, bertanggung jawab, dan mampu bekerja sama dalam tim maupun secara mandiri. Terbiasa belajar hal baru, memiliki komunikasi yang baik, serta berkomitmen untuk memberikan hasil kerja yang maksimal.
+                                                                                                                                                                                                                    </p>
+                                                                                                                                                                                                                        </div>
+
+                                                                                                                                                                                                                            <div class="section">
+                                                                                                                                                                                                                                    <h2>Biodata Pribadi</h2>
+                                                                                                                                                                                                                                            <div class="info-grid">
+                                                                                                                                                                                                                                                        <div><strong>Lahir:</strong> 30-04-2008</div>
+                                                                                                                                                                                                                                                                    <div><strong>Bahasa:</strong> Indonesia</div>
+                                                                                                                                                                                                                                                                                <div><strong>Hobi:</strong> Olahraga, Musik</div>
+                                                                                                                                                                                                                                                                                            <div><strong>Alamat:</strong> Baleendah, Bandung</div>
+                                                                                                                                                                                                                                                                                                    </div>
+                                                                                                                                                                                                                                                                                                        </div>
+
+                                                                                                                                                                                                                                                                                                            <div class="section">
+                                                                                                                                                                                                                                                                                                                    <h2>Pendidikan</h2>
+                                                                                                                                                                                                                                                                                                                            <ul>
+                                                                                                                                                                                                                                                                                                                                        <li><strong>SMA KP BALEENDAH</strong> (Lulus 2026)</li>
+                                                                                                                                                                                                                                                                                                                                                    <li><strong>SMP KP BALEENDAH</strong></li>
+                                                                                                                                                                                                                                                                                                                                                                <li><strong>SD MI</strong></li>
+                                                                                                                                                                                                                                                                                                                                                                        </ul>
+                                                                                                                                                                                                                                                                                                                                                                            </div>
+
+                                                                                                                                                                                                                                                                                                                                                                                <div class="section">
+                                                                                                                                                                                                                                                                                                                                                                                        <h2>Pengalaman & Organisasi</h2>
+                                                                                                                                                                                                                                                                                                                                                                                                <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                            <li><strong>Ekstrakurikuler Badminton</strong>: Melatih kerja sama, fokus, dan sportivitas.</li>
+                                                                                                                                                                                                                                                                                                                                                                                                                        <li><strong>Ekstrakurikuler Pencak Silat</strong>: Melatih disiplin, ketahanan fisik, dan mental.</li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="section">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                <h2>Keahlian</h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="info-grid">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div>• Komunikasi Baik</div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div>• Kerja Sama Tim</div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div>• Disiplin</div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div>• Tanggung Jawab</div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <a href="https://wa.me/6282130392438" class="contact-btn">Hubungi via WhatsApp</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="social-link">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Instagram: <a href="https://instagram.com/jain_afrzl" style="color: var(--accent-color); text-decoration: none;">@jain_afrzl</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </body>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                        }
+                                                                                                                                }
+                                                                                                                        }
+                                                                                                        }
+                                                                                                }
+                                                                                        }
+                                                                                }
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
